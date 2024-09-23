@@ -14,3 +14,5 @@ adding a little text here.
 [W3 Schools](https://www.w3schools.com/) <br>
 [Cisco Network Academy](https://www.netacad.com/) <br>
 [Godot Engine](https://godotengine.org/)
+
+>just a note to professor mark! it was a line of text messing with the code. everything is a-ok!
