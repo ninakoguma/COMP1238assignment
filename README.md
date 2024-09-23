@@ -15,4 +15,4 @@ adding a little text here.
 [Cisco Network Academy](https://www.netacad.com/) <br>
 [Godot Engine](https://godotengine.org/)
 
->just a note to professor mark! it was a line of text messing with the code. everything is a-ok!
+>just a note to professor mark! it was a line of text messing with the code. everything is a-ok! 🥲😰
